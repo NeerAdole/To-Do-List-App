@@ -1,6 +1,6 @@
 body {
     font-family: Open Sans, sans-serif;
-    background-color: #B0E0E6;
+    background-color: #E4D7FD;
     margin: 0;
     padding: 0;
 }
@@ -36,7 +36,7 @@ ul {
 }
 
 li {
-    background: #f9f9f9;
+    background: #FFFFFF;
     margin-bottom: 10px;
     padding: 15px;
     border-left: 5px solid #ccc;
@@ -63,7 +63,7 @@ li.low-priority {
 }
 
 li button {
-    background: #ff4d4d;
+    background: #644590;
     color: white;
     border: none;
     padding: 5px 10px;
